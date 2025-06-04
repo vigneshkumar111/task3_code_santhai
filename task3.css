@@ -1,0 +1,54 @@
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #ffffff;
+    }
+    .cta-section {
+      background-color: grey; /* dark background */
+       padding: 60px 60px;
+      color: #ffffff;
+      text-align: left;
+     width: 1240px;
+     height: 347px;
+      margin: 60px auto;
+      border-radius: 45px;
+    }
+    .cta-title {
+      font-size: 30px;
+      font-weight: 500;
+      margin-bottom: 16px;
+      color: black;
+
+    }
+    .cta-subtitle {
+      font-size: 18px;
+      color: black;
+      width: 500px;
+      height: 69px;
+    }
+    .cta-btn {
+       
+      font-size: 20px;
+      font-weight: 400;
+      padding: 10px 20px;
+      border-radius: 14px;
+      width: 288px;
+      height: 68px;
+      background-color:#191A23;
+      border: none;
+      color: #ffffff;
+      transition: background-color 0.3s ease;
+    }
+    .cta-btn:hover {
+      background-color:#B9FF66;
+      color: black;
+      font-weight: 300;
+    }
+    .cta-image {
+  max-width: 80%;
+  max-height: 80%;
+  height: auto;
+  width: 100%;
+  object-fit: contain;
+  padding-left: 20px;
+}
